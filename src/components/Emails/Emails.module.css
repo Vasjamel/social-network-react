@@ -1,0 +1,51 @@
+.onlyForGrid {
+  display: grid;
+  grid-template-columns: 4fr 4fr 4fr;
+}
+
+.from {
+  padding: 10px 15px;
+}
+
+.messages {
+  padding: 10px;
+}
+.person {
+  padding-bottom: 10px;
+  font-family: cursive;
+  font-size: 20px;
+  color: bisque;
+  text-decoration: none;
+}
+
+.eachMessage {
+  font-family: cursive;
+}
+
+.active {
+  color: yellow;
+}
+
+.person img {
+  height: 60px;
+  width: 60px;
+}
+
+.person a:link {
+  color: orange;
+  text-decoration: none;
+}
+
+.person a:visited {
+  color: orange;
+  text-decoration: none;
+}
+
+.newMessage {
+  font: normal;
+}
+
+.button {
+  height: 20px;
+  margin-left: 220px;
+}

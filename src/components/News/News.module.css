@@ -1,0 +1,11 @@
+.news {
+}
+
+.new {
+  height: 150px;
+}
+
+.new img {
+  height: 100px;
+  float: left;
+}

@@ -1,0 +1,20 @@
+.eachPost {
+  color: whitesmoke;
+  font-size: 1.5em;
+  margin: 10px;
+}
+
+.eachPost img {
+  width: 60px;
+  border-radius: 60px;
+}
+
+.likes {
+  margin: 10px;
+  color: wheat;
+  font-size: 0.9rem;
+}
+
+.likes {
+  word-spacing: 2rem;
+}

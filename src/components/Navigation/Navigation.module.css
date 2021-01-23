@@ -1,0 +1,13 @@
+.nav {
+  grid-area: nav;
+  background-color: orange;
+  padding: 0 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: x-large;
+  line-height: 56px;
+}
+
+.activeLink {
+  color: yellow;
+  text-decoration: none;
+}

@@ -1,0 +1,12 @@
+.avatar {
+  height: 200px;
+  padding: 10px;
+}
+
+.name {
+  padding: 10px;
+  color: orange;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  font-size: 3rem;
+}
